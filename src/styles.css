@@ -1,0 +1,16 @@
+.container {
+  justify-content: center;
+  display: flex;
+  margin: auto;
+  background-color: blue;
+}
+
+/* Como se puede apreciar acá, inclusive agregué la propiedad
+de background color y no reacciona a nada de lo que pueda agregar  */
+
+/* El proyecto tiene la particularidad que solo linkea las
+tecnologías a partir del archivo index.html, por tanto no puedo
+generar otro y debí modificar el existente.
+Sin embargo este lo linkea y no reconoce los cambios que pueda hacer
+en el styles.css.
+Es por esta razón que las modificaciones de centrado las hice en el mismo .html */

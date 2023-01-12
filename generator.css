@@ -1,0 +1,10 @@
+.container {
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    background-color: blue;
+  }
+  
+/* Como se puede apreciar acá, inclusive agregué la propiedad
+de background color y no reacciona a nada de lo que pueda agregar */
+  
